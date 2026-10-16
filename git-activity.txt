@@ -1,2 +1,3 @@
 This is my first Git activity.
 This line was added in the feature branch.
+This change was made directly on the GitHub website.
